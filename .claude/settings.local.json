@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python ai_trainer_framework.py)"
+    ]
+  }
+}
